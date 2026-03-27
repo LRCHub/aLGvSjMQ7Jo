@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "初音天地開闢神話（feat. Hatsune Miku）",
+  "base_artist": "cosMo＠暴走P",
+  "createdAt": "2026-03-27T15:45:19.940042Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初音天地開闢神話 (feat. 初音ミク)",
+      "artist": "cosMo@暴走P",
+      "has_synced": false,
+      "path": "select/pl_01_初音天地開闢神話_(feat._初音ミク)_cosMo@暴走P.txt"
+    }
+  ]
+}
